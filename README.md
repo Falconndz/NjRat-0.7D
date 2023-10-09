@@ -5,3 +5,5 @@ Télécharger net framework
 Télécharger Java
 
 pass 0000
+
+port  5552
